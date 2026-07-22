@@ -8,6 +8,3 @@ AI Translate Keyboard for Android
 - Bangla Typing
 - One-click Translation
 - Voice Input
-
-
-
